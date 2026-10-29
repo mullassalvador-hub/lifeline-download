@@ -8,3 +8,4 @@ a{color:#6AA8FF}li{margin:.5em 0}
 footer{margin-top:40px;border-top:1px solid #1E2B47;padding-top:16px}
 
 .ic{width:96px;height:96px;border-radius:22px;display:block;margin:8px 0 4px}
+.ic{object-fit:contain}
